@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MoodleQuiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_moodle_quiz">MoodleQuiz</string>
+    <string name="lblLogin">Login</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_quizzes_list">QuizzesList</string>
+    <string name="title_activity_question">Question</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="moodle_user">Moodle User</string>
+    <string name="remember_user">Remember User</string>
+    <string name="moodle_quiz">Moodle Quiz</string>
+
+</resources>
